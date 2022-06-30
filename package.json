@@ -12,7 +12,10 @@
   "keywords": [
     "bot",
     "telegram",
-    "quiz"
+    "quiz",
+    "node",
+    "telegraf",
+    "javascript"
   ],
   "author": "Firdavs Ergashev <firdavsergashev2001@gmail.com>",
   "license": "ISC",
